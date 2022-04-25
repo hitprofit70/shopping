@@ -5,3 +5,7 @@
 #more{
     display: none;
 }
+
+button{
+    align-items: center;
+}
